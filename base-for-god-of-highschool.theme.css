@@ -2358,19 +2358,3 @@
 /* Main Color */
 .color-primary { color:#6b82ce  rgba(107, 130, 206, 1.0); }
 /* Main Color */ 
-
-svg.homeIcon-FuNwkv {
-    color: transparent;
-}
-
-.homeIcon-FuNwkv {
-    background-image: url("https://i.imgur.com/dYDg7Iw.gif");
-    background-size: cover;
-    background-position: center;
-}
-
-#app-mount .content-1o0f9g {
-    background-color: black;
-}
-
-
