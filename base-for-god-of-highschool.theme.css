@@ -7,11 +7,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Pangolin');
 
-.wrapper-3nSjSv:before {
-    background-image: url(https://i.imgur.com/233d55Y.gif);
-    background-size: 100px 100px;
-}
-
 .app-2rEoOp {
     background-image: url(https://i.imgur.com/a2G50Ks.jpg);
     background-size: cover;
@@ -2363,3 +2358,19 @@
 /* Main Color */
 .color-primary { color:#6b82ce  rgba(107, 130, 206, 1.0); }
 /* Main Color */ 
+
+svg.homeIcon-FuNwkv {
+    color: transparent;
+}
+
+.homeIcon-FuNwkv {
+    background-image: url("https://i.imgur.com/233d55Y.gif");
+    background-size: cover;
+    background-position: center;
+}
+
+#app-mount .content-1o0f9g {
+    background-color: black;
+}
+
+
