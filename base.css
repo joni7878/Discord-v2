@@ -315,7 +315,7 @@
 }
 
     .rtcConnectionStatusConnected-VRZDjy > div::after {
-        content: 'Salmon';
+        content: 'Connected';
         font-size: 14px;
     }
 
@@ -326,7 +326,7 @@
 }
 
     .rtcConnectionStatusConnecting-3322Pa > div::after {
-        content: 'Kelp';
+        content: '3 2 1 Connected';
         font-size: 14px;
     }
 
@@ -337,7 +337,7 @@
 }
 
     .rtcConnectionStatusError-2hLzrL > div::after {
-        content: 'Fish Flakes';
+        content: 'Fish';
         font-size: 14px;
     }
 
