@@ -9,6 +9,4 @@
 
 For the open-source
 
-Toge Inumaki theme https://joni7878.github.io/Discord-v2/base-for-god-of-highschool.theme.css
-
 Inumaki theme https://joni7878.github.io/Discord-v2/base.css
